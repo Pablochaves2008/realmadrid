@@ -1,0 +1,32 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+img{
+  width: 220mm;
+  height:55mm;
+}
+
+header{
+    
+    font-family: rbc;
+    color: rebeccapurple;
+    font-size: 10mm;
+
+}
+
+h1{
+    color: whitesmoke;
+    font-family: bale;
+    font-size: 5mm;
+}
+
+h2{
+    font-family: hr;
+    font-size: 10mm;
+    
+}
+iframe{
+    border-radius: 5mm;
+}
